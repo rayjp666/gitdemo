@@ -8,5 +8,6 @@ public class Demo {
         System.out.println("hello git!");
         System.out.println("git update");
         System.out.println("git remote update");
+        System.out.println("git remote delete");
     }
 }
